@@ -48,7 +48,7 @@
     border-bottom: black 2px solid;
     border-left: black 2px solid;
     width: 20vw;
-    justify-content: flex-end;
+    justify-content: center;
     align-items: center;
 }
 
@@ -106,6 +106,3 @@ p {
         height: 30vw;
     }
 }
-    
-
-
